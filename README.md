@@ -20,4 +20,4 @@ Skills: HTML5 / CSS3 / SASS / Bootstrap/JavaScript/React js
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hafsawd)  
 
-![Profile views](https://gpvc.arturio.dev/hafsawd)  
+
