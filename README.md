@@ -1,6 +1,6 @@
 ### Hi,I'm Hafsa 👋 
 #### Web developer
- http://fmv.x10.mx/github/images/h-a-g-b-2023.jpg
+![Web developer]( http://fmv.x10.mx/github/images/h-a-g-b-2023.jpg)
 
 
 I am a passionate   Front End Web Developer and a partner of the Mountain Climbers Star group.  I love to solve problems by following a strategic way. Specially I enjoy working with JavaScript as well as React JS.
